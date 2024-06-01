@@ -8,12 +8,12 @@
 
 各コマンドの機能と使用方法を以下に示します。
 
-| コマンド             | 使用方法                                                    |
-| -------------------- | ----------------------------------------------------------- |
-| `reverse`            | `python file_manipulator.py reverse inputpath outputpath`   |
-| `copy`               | `python file_manipulator.py copy inputpath outputpath`      |
-| `duplicate-contents` | `python file_manipulator.py duplicate-contents inputpath n` |
-| `replace-string`     | `python file_manipulator.py replace-string inputpath a b`   |
+| コマンド             | 使用方法                                                  |
+| -------------------- | ------------------------------------------------------- |
+| reverse            | python file_manipulator.py reverse inputpath outputpath   |
+| copy               | python file_manipulator.py copy inputpath outputpath      |
+| duplicate-contents | python file_manipulator.py duplicate-contents inputpath n |
+| replace-string     | python file_manipulator.py replace-string inputpath a b   |
 
 ### 各コマンドの機能
 
